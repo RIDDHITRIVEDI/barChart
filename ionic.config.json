@@ -1,0 +1,7 @@
+{
+  "name": "barChart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
